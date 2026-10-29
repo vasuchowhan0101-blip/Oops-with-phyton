@@ -1,0 +1,4 @@
+Python practice codes for the listed repository files
+This pack contains code examples under the filenames shown in the repository list. The .txt files contain Python source code too; run them with python "filename.txt" if your Python installation accepts the explicit filename, or rename the extension to .py.
+The 20 cleaned .py examples from the earlier bundle are also included in python_codes_complete/. Examples are educational implementations based on the file names and the earlier conversation; where the original repository text was not provided, a matching example has been reconstructed rather than claimed as a verbatim copy.
+Run a file from a terminal, for example: python binary_search.py.
